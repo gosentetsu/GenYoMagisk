@@ -11,4 +11,4 @@
 
 
 
-字體來源於 [ButTaiwan](https://github.com/ButTaiwan) 的修改 Genyo 系列的 ttf 。采用 `fonts.xml` 替換的方式替換 SourceHan 系列字體。
+字體來源於 [ButTaiwan](https://github.com/ButTaiwan) 的修改 Genyo 系列的 ttf 。采用 替換`fonts.xml` 的方式替換 SourceHan 系列字體。
